@@ -1,5 +1,8 @@
 # Dashboard Comercial: Análise de Faturamento e Lucratividade
 
+![Capturar11](https://github.com/user-attachments/assets/1047f3db-b7d1-4afa-be98-37c3841a0b36)
+![Capturar12](https://github.com/user-attachments/assets/4a9a1da4-f6cf-42c1-980f-da2a42f33495)
+
 
 Este projeto consiste na criação de um dashboard comercial desenvolvido para analisar dados de vendas, identificar tendências e fornecer suporte à tomada de decisões estratégicas. O dashboard foi desenvolvido utilizando **Power BI** para visualização de dados e **Power Query** para tratamento e modelagem.
 
